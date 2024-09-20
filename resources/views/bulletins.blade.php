@@ -61,5 +61,6 @@
             <button class="btn"onclick="window.location.href='{{ route('gradebook') }}'">Gradebook</button>
         </div>
     </div>
+    <h1>Bulletins</h1>
 </body>
 </html>
